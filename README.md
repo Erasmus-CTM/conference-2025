@@ -10,7 +10,6 @@ It brings together educators and researchers to explore how programming and comp
 
 ## Contents
 - Slides from invited talks and contributed presentations  
-- Workshop materials (Python tutorials, AI in education tools, etc.)  
 - Additional resources from the CTM project partners  
 
 ## Project Partners
